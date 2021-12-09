@@ -1,0 +1,3 @@
+[submodule "healthgen/data_access/MIMIC_Extract"]
+	path = healthgen/data_access/MIMIC_Extract
+	url = git://github.com/simonbing/MIMIC_Extract
