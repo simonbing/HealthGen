@@ -1,4 +1,4 @@
-# HealthGen: Realistic EHR Time Series Generation
+# HealthGen: Conditional EHR Time Series Generation
 
 ![Code Coverage](https://img.shields.io/badge/Python-3.7-blue)
 
